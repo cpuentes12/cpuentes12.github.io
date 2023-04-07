@@ -1,0 +1,33 @@
+wiki.md
+
+# Kivalina SAR: Arctic Indigenous Climate Adaptation
+![](https://www.businessinsider.com/what-life-is-like-in-kivalina-alaska-2017-9)
+
+Kivalina, Alaska is a barrier island situated above the Arctic circle, framed by the Chukchi Sea to the west and the Kivalina Lagoon, Wulik River and Alaskan tundra to the east. It is home to ~500 residents, most of who are Inupiaq Alaska Natives. Subsistence hunting is still widely practiced in the village, with ugruk (bearded seals), tuttu (caribou), and various birds and fish composing most of hunters' take. 
+
+Because of its unique position, Kivalina is facing significant challenges due to climate change. These challenges include increased storm frequency and intensity, unreliable sea ice freeze up and thaw, melting permafrost, altered timing of subsistence animal migrations, and coastal subsidence among others. 
+
+This project seeks to **identify and map climate risks related to human safety and food systems in Kivalina** through the foregrounding of local hunter, Search and Rescue volunteer, and Elder stories. A story map will spatialize and visualize recent Search and Rescue incidents as well as preserve local place names. 
+
+## Section 1
+One or several paragraphs.
+
+## Section 2
+One or several paragraphs.
+### (Optional) Subsection 1
+One or several paragraphs.
+### (Optional) Subsection 2
+One or several paragraphs.
+
+## Section 3
+One or several paragraphs for subsection 3.
+
+## See also
+- [Resource 1](url)
+- [Resource 2](url)
+- [Resource 3](url)
+
+## References
+1. Reference 1
+2. Reference 2
+3. Reference 3

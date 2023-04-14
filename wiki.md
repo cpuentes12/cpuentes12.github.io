@@ -6,6 +6,7 @@ Kivalina, Alaska is a barrier island situated above the Arctic circle, framed by
 
 ## Climate Change in Kivalina
 Because of its unique position, Kivalina is facing significant challenges due to climate change. These challenges include increased storm frequency and intensity, unreliable sea ice freeze-up and thaw, melting permafrost, altered timing of subsistence animal migrations, and coastal subsidence among others. 
+
 ![A strong coastal storm along Kivalina's coast](https://www.commerce.alaska.gov/web/portals/4/Images/Kivalina_coastal_storm.jpg)
 
 ### Ongoing Research + Opportunities

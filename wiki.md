@@ -1,6 +1,6 @@
 
 # Kivalina SAR: Arctic Indigenous Climate Adaptation
-(![The village of Kivalina][https://upload.wikimedia.org/wikipedia/commons/9/95/Kivalina_2.jpg](https://upload.wikimedia.org/wikipedia/commons/9/95/Kivalina_2.jpg) 
+![The village of Kivalina](https://upload.wikimedia.org/wikipedia/commons/9/95/Kivalina_2.jpg)) 
 
 Kivalina, Alaska is a barrier island situated above the Arctic circle, framed by the Chukchi Sea to the west and the Kivalina Lagoon, Wulik River and Alaskan tundra to the east. It is home to ~500 residents, most of who are Inupiaq Alaska Natives. Subsistence hunting is still widely practiced in the village, with ugruk (bearded seals), tuttu (caribou), and various birds and fish composing most of hunters' take. 
 

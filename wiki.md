@@ -1,6 +1,6 @@
 
 # Kivalina SAR: Arctic Indigenous Climate Adaptation
-([The village of Kivalina]!(https://www.flickr.com/photos/shorezone/11471418433/in/photolist-YmGb7a-XKKS4J-Y53hsj-Ybq6fV-itG23r-XKKRyW-Y56xfu-X8pDzK-Y6qJF7-XKKRKh-X84x12-XKsnDb-X8pBG6-Y9eJgc-6Pmmj2-Y6qJoy-X8pCKD-Y541TG-qhLaQD-Y5h2t3-reyPL4-Ymz61c-XKso63-X84xFa-Ybq6s8-Shr4J7-YmGaqR-XKzDzW-Shr2Wu-YmyhrR-X84xpZ-YmygQR-XKwseA-X84xZM/))
+(![The village of Kivalina](https://www.flickr.com/photos/shorezone/11471418433/in/photolist-YmGb7a-XKKS4J-Y53hsj-Ybq6fV-itG23r-XKKRyW-Y56xfu-X8pDzK-Y6qJF7-XKKRKh-X84x12-XKsnDb-X8pBG6-Y9eJgc-6Pmmj2-Y6qJoy-X8pCKD-Y541TG-qhLaQD-Y5h2t3-reyPL4-Ymz61c-XKso63-X84xFa-Ybq6s8-Shr4J7-YmGaqR-XKzDzW-Shr2Wu-YmyhrR-X84xpZ-YmygQR-XKwseA-X84xZM/))
 
 Kivalina, Alaska is a barrier island situated above the Arctic circle, framed by the Chukchi Sea to the west and the Kivalina Lagoon, Wulik River and Alaskan tundra to the east. It is home to ~500 residents, most of who are Inupiaq Alaska Natives. Subsistence hunting is still widely practiced in the village, with ugruk (bearded seals), tuttu (caribou), and various birds and fish composing most of hunters' take. 
 
